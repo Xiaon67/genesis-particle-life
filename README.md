@@ -6,6 +6,8 @@ An interactive, high-performance simulation of artificial life, emergent biologi
 
 ## 🌌 Overview
 
+[**🔗 Live Web Demo**](https://xiaon67.github.io/genesis-particle-life/)
+
 In **Genesis**, thousands of autonomous particles belonging to distinct "species" interact through a matrix of attraction and repulsion forces. Despite having no explicit instructions to create biological forms, their interactions spontaneously give rise to complex emergent behaviors:
 
 - **Self-assembling cell membranes** with enclosed nuclei that undergo mitosis.
